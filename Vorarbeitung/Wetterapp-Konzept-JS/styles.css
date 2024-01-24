@@ -1,0 +1,96 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Times New Roman', 'MV Boli';
+}
+
+
+
+
+.weather {
+    opacity: 1;
+    font-size: 1.25rem;
+    text-transform: capitalize;
+}
+
+#location {
+    opacity: 1;
+    font-size: 1.25rem;
+    text-transform: capitalize;
+}
+.desc .c .ff .f .info{
+    opacity: 1;
+    font-size: 1.25rem;
+    text-transform: capitalize;
+}
+
+
+
+
+
+
+
+.circel {
+    width: 400px;
+    height: 400px;
+    -webkit-border-radius: 200px;
+    -moz-border-radius: 200px;
+    border-radius: 200px;
+    background: radial-gradient(farthest-side, rgba(42,212,165,1) 43%, rgba(209,217,27,1) 83%, rgba(210,190,88,1) 99%) center no-repeat;
+    margin: 50px auto;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background: radial-gradient(farthest-side,rgb(255, 106, 0), transparent) center no-repeat;
+    animation: pulse 10s linear infinite alternate;
+    margin: auto;
+    padding: 200px 200px;
+
+}
+
+@keyframes pulse {
+    from {
+        background-size: 50% 50%;
+    }
+
+    to {
+        background-size: 100% 100%;
+    }
+}
+
+.boxInnen {
+    width: 200px;
+    height: 200px;
+    background: radial-gradient(farthest-side,rgba(209,217,27,1), transparent) center no-repeat;
+    animation: puls 8s linear infinite alternate;
+    margin: auto;
+}
+
+@keyframes puls {
+    from {
+        background-size: 10% 10%;
+    }
+
+    to {
+        background-size: 80% 80%;
+    }
+
+
+
+
+
+}
+
+.try {
+    height: 200px;
+    width: 200px;
+    background-color:black;
+}
+
+      
