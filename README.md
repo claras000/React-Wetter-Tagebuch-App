@@ -2,7 +2,7 @@
 
 Eine Wetter-Tagebuch-App von Mihye und Clara
 
-### Besschreibung
+### Beschreibung
 Unsere Wetter-Tagebuch App “WetterFühlIch” ist eine Achtsamkeits-App. Mit ihr kann man seine Stimmungen und Wettereindrücke visuell mit Hilfe von individuell einstellbaren Farben lesen, ausdrücken und verstehen. Durch eine Dekonstruktion von standardisierten Farb- und Wetterwahrnehmungen soll ein neuer Blickwinkel endstehen. Mit Hilfe von Tagebucheinträgen kann der/die Nutzer*in reflektieren und sich sensibilisieren. Die Mobile Webanwendung ist besonders an Gestalter*innen und Kreative gerichtet. Ziel ist eine ganzheitliche Reflektion und im besten Fall ein Umschreiben der eigenen, auch kulturell geprägten, Stereotype in der Wetter- und Farbwarnehmung.
 
 ###Implementierung
@@ -33,7 +33,7 @@ Folgende Bibliotheken wurden genutzt und ergänzt:
   "web-vitals": "^2.1.4" (Analyse für Redux)
 
 
-###Autor
+### Autor
 
 Clara Osterburg Correa (Logik/Backend/ Design/ Frontend)
 
