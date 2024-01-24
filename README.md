@@ -18,19 +18,19 @@ Als Entwicklerplattform haben wir Visual Studio Code verwendet.
 
 Folgende Bibliotheken wurden genutzt und ergänzt:
 
- "bootstrap": "^5.2.3", (für Struktur)
- "moment": "^2.29.4", (für Datum)
- "react-bootstrap": "^2.7.0", (für Struktur)
-  "react-color": "^2.19.3", (für Colopicker)
-  "react-datetime-bootstrap": "^1.4.7", (für Datum)
- "react-icons": "^4.7.1",(für Icons)
- "react-redux": "^7.2.9", (für Redux)
- "redux": "^4.2.0",
- "redux-form": "^8.3.9",
-  "redux-persist": "^6.0.0",
- "semantic-ui-css": "^2.5.0", (für inneres CSS in Komponenten)
- "semantic-ui-react": "^2.1.4",
-  "web-vitals": "^2.1.4" (Analyse für Redux)
+- "bootstrap": "^5.2.3", (für Struktur)
+- "moment": "^2.29.4", (für Datum)
+- "react-bootstrap": "^2.7.0", (für Struktur)
+- "react-color": "^2.19.3", (für Colopicker)
+- "react-datetime-bootstrap": "^1.4.7", (für Datum)
+- "react-icons": "^4.7.1",(für Icons)
+- "react-redux": "^7.2.9", (für Redux)
+- "redux": "^4.2.0",
+- "redux-form": "^8.3.9",
+-  "redux-persist": "^6.0.0",
+- "semantic-ui-css": "^2.5.0", (für inneres CSS in Komponenten)
+- "semantic-ui-react": "^2.1.4",
+-  "web-vitals": "^2.1.4" (Analyse für Redux)
 
 
 ### Autor
